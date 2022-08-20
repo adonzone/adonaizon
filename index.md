@@ -1,6 +1,6 @@
 ## This is Adonaizone's page!
 
-Hi, I am adonaizone, and
+Hi, I am adonaizone, and you can stalk me on [Scratch](https://scratch.mit.edu/users/adonaizone/)
 
 ### Markdown
 
